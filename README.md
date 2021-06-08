@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![seongwoolim's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongwoolim-dev)](https://github.com/seongwoolim-dev/github-readme-stats)
 
 <!--
 **seongwoolim-dev/seongwoolim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
